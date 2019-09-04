@@ -433,7 +433,7 @@ GameObject:
   - component: {fileID: 82261242}
   - component: {fileID: 82261241}
   m_Layer: 0
-  m_Name: Downstairs Wall_03
+  m_Name: ' Wall_03'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -811,7 +811,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh71042
+  m_Name: pb_Mesh9670
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -2085,7 +2085,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1942401348426070, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
       propertyPath: m_Name
-      value: Coin Prefab (2)
+      value: Coin 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
@@ -2310,7 +2310,7 @@ GameObject:
   - component: {fileID: 272224647}
   - component: {fileID: 272224646}
   m_Layer: 0
-  m_Name: Downstairs Wall_01
+  m_Name: ' Wall_01'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4845,7 +4845,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh70404
+  m_Name: pb_Mesh9138
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -5907,7 +5907,7 @@ GameObject:
   m_Component:
   - component: {fileID: 738978523}
   m_Layer: 0
-  m_Name: Horror Room Coins
+  m_Name: Maze Room Coins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6219,7 +6219,7 @@ GameObject:
   - component: {fileID: 787849871}
   - component: {fileID: 787849870}
   m_Layer: 0
-  m_Name: Downstairs Wall_05
+  m_Name: ' Wall_05'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7826,7 +7826,7 @@ GameObject:
   - component: {fileID: 1140763436}
   - component: {fileID: 1140763435}
   m_Layer: 0
-  m_Name: Downstairs Wall_04
+  m_Name: ' Wall_04'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8786,7 +8786,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1942401348426070, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
       propertyPath: m_Name
-      value: Coin Prefab (1)
+      value: Coin 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
@@ -9037,7 +9037,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1942401348426070, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
       propertyPath: m_Name
-      value: Coin Prefab (3)
+      value: Coin 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97e4e894d6aa1438589b8f6f09c8bb14, type: 2}
@@ -9052,7 +9052,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh70952
+  m_Name: pb_Mesh9580
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -9278,7 +9278,7 @@ GameObject:
   - component: {fileID: 1497885126}
   - component: {fileID: 1497885125}
   m_Layer: 0
-  m_Name: Downstairs Wall_02
+  m_Name: ' Wall_02'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10166,7 +10166,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh70512
+  m_Name: pb_Mesh9246
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -12036,7 +12036,7 @@ GameObject:
   - component: {fileID: 1906572059}
   - component: {fileID: 1906572058}
   m_Layer: 0
-  m_Name: Downstairs Wall_06
+  m_Name: ' Wall_06'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13313,7 +13313,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh70822
+  m_Name: pb_Mesh9492
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -13519,7 +13519,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh71260
+  m_Name: pb_Mesh9852
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -13678,7 +13678,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2129237980}
   m_Layer: 0
-  m_Name: Dark Room Building
+  m_Name: Maze Room Building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
